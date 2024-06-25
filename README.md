@@ -1,4 +1,4 @@
-Excited to Share My Latest Project at Prodigy Infotech! 🧩
+Excited to Share My Latest Project at Prodigy Infotech! 
 
 I've recently created an engaging Java program for solving Sudoku puzzles. This project leverages a backtracking algorithm to solve any given 9x9 Sudoku puzzle, adhering to all the standard rules of the game. Using Java and its core libraries, I developed an efficient and interactive tool that processes and solves Sudoku puzzles with clear, step-by-step feedback.
 
